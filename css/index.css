@@ -1,0 +1,13 @@
+:root {
+    /* color */
+    --discord-blue:rgba(88, 101, 242, 1);
+    --button:#3BA55C;
+
+    /* font */
+    --font-h1:#4f545c;
+
+    /* box */
+    box-shadow: 0px 9px 30px rgb(200 200 200 / 30%);
+    bottom-box-bg: #f2f2f2;
+    box-bg: #ffffff;
+}
